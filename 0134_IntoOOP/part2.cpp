@@ -38,3 +38,10 @@ public:
 		cout << "Nama MK : " << namaMk << endl;
 		cout << "SKS : " << sks << endl;
 	}
+
+};
+
+int main()
+{
+	Mahasiswa mhs;
+	Matakuliah mk;
