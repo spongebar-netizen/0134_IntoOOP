@@ -14,3 +14,4 @@ public:
 		cout << "Umur : " << umur << endl;
 		cout << "Jurusan : " << jurusan << endl;
 	}
+
