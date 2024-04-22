@@ -45,3 +45,15 @@ int main()
 {
 	Mahasiswa mhs;
 	Matakuliah mk;
+
+	mhs.nama = " Lalu Fatan";
+	mhs.umur = 19;
+	mhs.jurusan = "Teknologi Informasi";
+	mhs.output();
+
+	mk.input();
+	mk.output();
+
+	return 0;
+
+}
